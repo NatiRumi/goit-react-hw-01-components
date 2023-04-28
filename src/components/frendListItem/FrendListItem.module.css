@@ -1,0 +1,29 @@
+.item {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 200px;
+    margin-bottom: 20px;
+    border: 2px solid grey;
+}
+
+.status {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    margin-right: 40px;
+}
+
+.avatar {
+    margin-right: 48px;
+    border-radius: 10px;
+}
+
+.name {
+    color: darkslategrey;
+    font-size: 32px;
+}
+
